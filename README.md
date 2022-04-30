@@ -10,3 +10,24 @@ Okni is a set of creation made with AI integrated in the process
 
 
 
+
+## Code repositories
+
+Bellow are some repositories I am currently using to create the art.
+
+
+### [GuillaumeAI/rwml__adaptive_style_transfer](https://github.com/GuillaumeAI/rwml__adaptive_style_transfer/blob/v220407-merging-gaia-changes/README.md)
+
+* Python Server to run the Style Transfer on a Server
+* Inference phase
+
+### [gia-ast](https://www.npmjs.com/package/gia-ast)
+
+* NodeJS Command line to use with the server
+
+### [GuillaumeIsabelleX/gix-adaptive-style-transfer.git](https://github.com/GuillaumeIsabelleX/gix-adaptive-style-transfer/blob/wsl-run-gaia-220410/README.md)
+
+* Training Phase
+
+
+
